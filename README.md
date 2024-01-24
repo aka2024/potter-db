@@ -70,7 +70,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 Please read [our contribution guidelines](CONTRIBUTING.md), and thank you for being involved!
 
-## Project assistance 🤝
+## Project    assistance 🤝
 
 If you want to say **thank you** or/and support active development of Potter DB:
 
